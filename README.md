@@ -48,6 +48,6 @@ An additional benefit of embedding the necessary siad functionality is that ther
 
 ----------------------------------------------------------------------------------------------------
 
-This new repository, siapeers, is a members only version intended to include the additional functionality of regulating who is and isn't part of the p2p pool.
+This new repository, siapeers, is a non-exclusive members-only version of siapool by robvanmieghem intended to include the additional functionality of regulating who is and isn't part of the p2p pool. Note: everyone and anyone can be part of this pool - we aren't trying to exclude people, but simply verify who can be trusted and who is willing to trust those in the network already.
 
-This shall be achieved via establishing 1. an online forum website for members and aspiring members to communicate with each other. 2. NLP-inspired techniques to catch keywords contained in randomized interviews that applicants must have with existing pool members.
+Regulating who is and isn't part of siapeers shall be achieved via establishing 1. an online forum for members and aspiring members to communicate with each other (a site, siapeers.tech will be established to facilitate their communication.) 2. NLP-inspired techniques to catch keywords contained in randomized interviews that applicants must have with existing pool members.
